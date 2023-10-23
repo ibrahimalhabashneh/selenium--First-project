@@ -14,8 +14,8 @@ public class mytestlap {
 	Random rand = new Random();
 
 	String URL = "https://magento.softwaretestingboard.com/customer/account/create/";
-	String FirstName = "abedalraheem";
-	String lastName = "alsaqqa";
+	String FirstName = "Ibrahim";
+	String lastName = "Alhabashneh";
 	String Email = "asaqa";
 	String Domain = "@gmail.com";
 	String Password = "ASDasd123!@#";
